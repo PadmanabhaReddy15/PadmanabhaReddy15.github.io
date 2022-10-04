@@ -97,6 +97,7 @@ section {
   align-items: center;
   justify-content: center;
   transform: translateY(-50%);
+  color:#000
 }
 .controls .control {
   padding: 1rem;
@@ -121,7 +122,7 @@ section {
   transition: all 0.4s ease-in-out;
 }
 .controls .active-btn i {
-  color: var(--color-white);
+  color: var(--color-primary);
 }
 
 .theme-btn {
